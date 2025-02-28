@@ -1,0 +1,99 @@
+[{
+    "uri": "https://www.instagram.com/rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+},
+{
+    "uri": "https://steamcommunity.com/search/users/#text=rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+},
+{
+    "uri": "https://royaleapi.com/player/search/results?q=rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+},
+{
+    "uri": "https://vsco.co/rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0",
+        "Host": "vsco.co"
+    }
+},
+{
+    "uri": "https://www.tiktok.com/@rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0",
+        "Host": "vsco.co"
+    }
+},
+{
+    "uri": "https://www.wattpad.com/user/rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+
+},
+{
+    "uri": "https://github.com/rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+},
+{
+    "uri": "https://pastebin.com/u/rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+},
+{
+    "uri": "https://soundcloud.com/rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+},
+{
+    "uri": "https://www.youtube.com/rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+},
+{
+    "uri": "https://linktr.ee/rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+},
+{
+    "uri": "https://www.patreon.com/rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+},
+{
+    "uri": "https://www.gamespot.com/profile/rename/",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+},
+{
+    "uri": "https://leetcode.com/rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+},
+{
+    "uri": "https://www.scribd.com/rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+},
+{
+    "uri": "https://www.sbazar.cz/rename",
+    "agents": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
+    }
+}]
