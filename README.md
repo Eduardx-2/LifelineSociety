@@ -1,9 +1,37 @@
-
 <p align="center">
 <img width="70%" height="70%" src="https://github.com/Eduardx-2/Lifeline-society/blob/main/lifeLog.jpeg"/>
 </a>
 </p>
 
+* Lifeline Society es una herramienta de hacking modular, donde cada módulo contiene su propia funcionalidad específica. 
+  Características:
+  
+*    Modularidad: Cada módulo es una herramienta independiente que puede ejecutarse dentro del programa.
+*    Ejemplo de módulo: El módulo de web incluye un analizador de páginas .onion, permitiendo verificar si están activas o inactivas.
+*    Interfaz de comandos: Puedes interactuar con la herramienta a través de comandos personalizados.
+
+Para listar los comandos disponibles, utiliza cualquiera de las siguientes opciones:
+- help  
+- list  
+- commands  
+- commandos  
+- cmds
+
+# Catalyst
+*  Funciona como una herramienta diseñada para capturar trafico en red y mostralo en consola.
+<p align="center">
+<img width="60%" height="40%" src="https://github.com/Eduardx-2/LifelineSociety/blob/main/catalyst.jpeg"/>
+</a>
+</p>
+
+# Napoleon
+* Funciona como una herramienta de web scraping diseñada para buscar información sobre un nombre de usuario, identificando en qué sitios está registrado. Incluye el argumento -f, que permite filtrar la búsqueda en plataformas específicas proporcionadas por el usuario, por ejemplo: -f instagram,youtube
+<p align="center">
+<img width="60%" height="40%" src="https://github.com/Eduardx-2/LifelineSociety/blob/main/napoleon.jpeg"/>
+</a>
+</p>
+
+    
 ## Instalación
 
 ```console
@@ -12,14 +40,6 @@ $ git clone https://github.com/Eduardx-2/Lifeline-society.git
 
 # Moverse al directorio
 $  cd Lifeline-society
-
-# Descomprima el archivo .zip
-
-# Windows
-$tar -xvf Red_lifeline.zip
-
-# Linux
-$ unzip Red_lifeline.zip
 
 # instalar requirement linux:
 $ python3 -m pip3 install -r requirements.txt
@@ -33,7 +53,7 @@ $ python main.py or python3 main.py
 ```
 ## Sistemas Operativos
 
-## El software se encuentra en proceso de creación y desarrollo en el entorno de Windows 11. Dado que es un programa de interfaz de línea de comandos (CLI), su compilación es compatible con varios sistemas operativos. No obstante, es importante considerar que se trata de un programa modular.
+## La herramienta se encuentra en proceso de creación y desarrollo en el entorno de Windows 11. Dado que es un programa de interfaz de línea de comandos (CLI), su compilación es compatible con varios sistemas operativos. No obstante, es importante considerar que se trata de un programa modular.
 
 •    Windows 8, 10, 11 AMD
 •    Linux AMD
